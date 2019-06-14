@@ -18,7 +18,7 @@ First clone the repository.
 All 4 files must be present in the same directory.
 To execute the task just run the script file "./script.sh".
 a). Once you run the script it will create docker image. 
-b). With the help of COPY module it will copy the "test.py" script file to your container path. 
+b). With the help of COPY module it will copy the "mac.py" script file to your container path. 
 c). And finally it will prompt you to pass an argument "enter the mac address" to see the output of the program.
 
 
