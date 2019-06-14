@@ -14,12 +14,13 @@ Prerequisite:
 
 Running the Task:
 -------------------
-First clone the repository.
+First clone the repository https://github.com/chinniprashanth/mac-project/ 
 All 4 files must be present in the same directory.
 To execute the task just run the script file "./script.sh".
 a). Once you run the script it will create docker image. 
 b). With the help of COPY module it will copy the "mac.py" script file to your container path. 
 c). And finally it will prompt you to pass an argument "enter the mac address" to see the output of the program.
+d). Enter any mac address it displaces the details of the mac address
 
 
 
